@@ -1,4 +1,4 @@
-## **## Readme.md: Aplicação "Jogos Premiados"**
+## ** "Jogos Premiados - Imersão Alura + Google Gemini"
 
 ### **Descrição**
 
