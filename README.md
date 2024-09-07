@@ -1,4 +1,4 @@
-## ** "Jogos Premiados - Imersão Alura + Google Gemini" **
+## Jogos Premiados - Imersão Alura + Google Gemini
 
 ### **Descrição**
 
