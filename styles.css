@@ -1,4 +1,4 @@
-/* Importa a fonte Chakra Petch do Google Fonts */
+8/* Importa a fonte Chakra Petch do Google Fonts */
 @import url('https://fonts.googleapis.com/css2?family=Bangers&family=Play:wght@400;700&display=swap');
 
 /* Estiliza o corpo da página */
@@ -189,7 +189,7 @@ footer {
 
     .resultados-pesquisa {
         width: 90%; /* Largura da caixa de resultados em telas pequenas */
-        height: 40vh; /* Altura da caixa de resultados em telas pequenas */
+        height: 70vh; /* Altura da caixa de resultados em telas pequenas */
     }
 
     .item-resultado h3 {
