@@ -189,7 +189,7 @@ footer {
 
     .resultados-pesquisa {
         width: 90%; /* Largura da caixa de resultados em telas pequenas */
-        height: 50vh; /* Altura da caixa de resultados em telas pequenas */
+        height: 37.5vh; /* Altura da caixa de resultados em telas pequenas */
     }
 
     .item-resultado h3 {
