@@ -206,6 +206,6 @@ footer {
 
     footer {
         font-size: 11px; /* Tamanho da fonte do rodapé em telas pequenas */
-        position: none; /* Posiciona o rodapé */
+        margin-bottom: -50; /* Posiciona o rodapé */
     }
 }
