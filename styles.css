@@ -189,7 +189,7 @@ footer {
 
     .resultados-pesquisa {
         width: 90%; /* Largura da caixa de resultados em telas pequenas */
-        height: 50vh; /* Altura da caixa de resultados em telas pequenas */
+        height: 40vh; /* Altura da caixa de resultados em telas pequenas */
     }
 
     .item-resultado h3 {
@@ -198,7 +198,7 @@ footer {
 
     .item-resultado img {
         border-radius: 8px;
-        margin-left: 125px;
+        margin-left: 100px;
         margin-top: 20px;
         width: 150px;
     
